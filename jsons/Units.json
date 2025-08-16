@@ -1,17 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "agressive musketman",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"replaces": "Musketman",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"strength": 30,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"cost": 135,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Accuracy I","Cover I"]
 	}
 ]
