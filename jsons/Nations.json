@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
+		"name": "TEST",
 		"leaderName": "Zyxxyz",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"startBias": ["plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
